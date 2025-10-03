@@ -1,4 +1,4 @@
-import 'package:dart_application_2/pilsu/Score.dart';
+import 'package:dart_application_2/Score.dart';
 
 class StudentScore extends Score {
   StudentScore(this.name, super.score);
